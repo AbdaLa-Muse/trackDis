@@ -1,5 +1,0 @@
-[functions.tradeflow-auth]
-verify_jwt = false
-
-[functions.tradeflow-api]
-verify_jwt = false
